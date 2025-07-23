@@ -6,8 +6,8 @@ Django Project Starter with allAuth and htmx to quickly complete signIn signOut 
 Follow the steps below to set up and run the project on your local machine.
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/arbinsigdel12/Project-Starter.git
+cd Project-Starter
 
 ### 2. Create and activate a virtual environment
 python -m venv venv
